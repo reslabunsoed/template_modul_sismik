@@ -8,11 +8,11 @@
 
 ## ⚙️ Alat dan Bahan
 
-## Percobaan
+## 💻 Percobaan
 
-## Pertanyaan Praktikum
+## 📚 Pertanyaan Praktikum
 
-## Mengakhiri Percobaan
+## 🧰 Mengakhiri Percobaan
 
 Berikut hal yang perlu dilakukan setelah selesai praktikum:
 - Sebelum keluar dari ruang praktikum, pastikan meja dalam keadaan rapi.
