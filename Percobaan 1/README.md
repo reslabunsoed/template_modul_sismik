@@ -1,12 +1,12 @@
-# Percobaan 1: ......
+# Percobaan 2: ......
 
-## Tujuan
+## 🎯 Tujuan
 
-## Spesifikasi yang Diharapkan
+## 💡 Spesifikasi yang Diharapkan
 
-## Langkah Percobaan
+## ♻️ Langkah Percobaan
 
-## Pertanyaan Praktikum
+## 🧠 Pertanyaan Praktikum
 
 <h2></h2>
 
