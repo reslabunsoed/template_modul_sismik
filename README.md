@@ -1,7 +1,12 @@
-# template_modul_sismik
-Template untuk membuat Modul Praktikum Sistem Mikrokontroler
+# Modul ... : 
 
-> :warning: :warning: :warning: Silahkan mengganti isi file ini dengan materi sesuai dengan modul praktikum. Kecuali banner nya :warning: :warning: :warning:
+## 🎯 Tujuan Praktikum
+
+## 📄 Dasar Teori
+
+## 🚀 Tugas Pendahuluan
+
+## ⚙️ Alat dan Bahan
 
 <h2></h2>
 
