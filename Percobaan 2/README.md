@@ -6,8 +6,6 @@
 
 ## ♻️ Langkah Percobaan
 
-## 🧠 Pertanyaan Praktikum
-
 <h2></h2>
 
 <br>
